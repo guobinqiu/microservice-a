@@ -2,7 +2,7 @@
 
 http://127.0.0.1:8500/
 
-### [启动微服务服务端](https://github.com/guobinqiu/microservice-a)
+### 启动微服务服务端
 
 go run main.go --port 9990
 
